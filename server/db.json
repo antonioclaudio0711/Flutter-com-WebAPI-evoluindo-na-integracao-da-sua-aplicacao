@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "email": "acf07112002@gmail.com",
+      "password": "$2a$10$c2RknoxzZ7tneyuSKw2E9.z9304fFtDeofKmVDg/e8fPzuPwzG3.O",
+      "id": 1
+    },
+    {
+      "email": "cacau007.ferreira@gmail.com",
+      "password": "$2a$10$YhtLo2eIBV4P5Zw2ntTqeu8DZiH7SOBgDO1wgfdqj7Bs.qJ0mVNhi",
+      "id": 2
+    },
+    {
+      "email": "clarinha007.ferreira@gmail.com",
+      "password": "$2a$10$X4sUgmLX5UY.46jThZ8RMOByZjs2xN4geZJbUlhus3an2JscRhZ2y",
+      "id": 3
+    }
+  ],
+  "learnhttp": {
+    "content": "Olá mundo!"
+  },
+  "journals": [
+    {
+      "id": "4be869d0-912a-11ed-83ea-4350f0544157",
+      "content": "Hoje é terça-feira, graças a Deus!",
+      "created_at": "2023-01-03 21:03:42.266106",
+      "updated_at": "2023-01-12 14:39:42.145186",
+      "userId": 1
+    },
+    {
+      "id": "29e0b830-9277-11ed-89f2-ef808e52281b",
+      "content": "Como eu gosto de terça-feira!",
+      "created_at": "2023-01-03 12:46:40.327835",
+      "updated_at": "2023-01-03 12:46:40.327835",
+      "userId": 2
+    },
+    {
+      "id": "36f612d0-9287-11ed-a654-b5365252abcf",
+      "content": "Hoje é quinta-feira!",
+      "created_at": "2023-01-05 14:39:20.985650",
+      "updated_at": "2023-01-05 14:39:20.985650",
+      "userId": 1
+    },
+    {
+      "id": "4d36a320-9287-11ed-a654-b5365252abcf",
+      "content": "Finalmente é sexta-feira!",
+      "created_at": "2023-01-06 14:42:10.451745",
+      "updated_at": "2023-01-06 14:42:10.451745",
+      "userId": 2
+    },
+    {
+      "id": "7a79b430-9287-11ed-a654-b5365252abcf",
+      "content": "No vou fazer nada, pois estou de férias!",
+      "created_at": "2023-01-05 14:43:27.362887",
+      "updated_at": "2023-01-05 14:43:27.362887",
+      "userId": 3
+    }
+  ]
+}
